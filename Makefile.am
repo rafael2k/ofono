@@ -1143,7 +1143,7 @@ ell/ell.h: Makefile
 	done
 
 maintainer-clean-local:
-	-rm -rf ell
+	@echo skip $@
 
 clean-local:
 	@$(RM) -rf include/ofono
