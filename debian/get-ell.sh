@@ -28,6 +28,8 @@ ell/uintset.h
 ell/string.h
 ell/private.h
 ell/missing.h
+ell/gpio.h
+ell/useful.h
 ell/util.c
 ell/test.c
 ell/strv.c
