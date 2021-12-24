@@ -12,6 +12,7 @@ ell/test.h
 ell/strv.h
 ell/utf8.h
 ell/queue.h
+ell/main-private.h
 ell/main.h
 ell/idle.h
 ell/signal.h
@@ -43,6 +44,7 @@ ell/uuid.c
 ell/file.c
 ell/uintset.c
 ell/string.c
+ell/gpio.c
 "
 
 mkdir -p ../ell
