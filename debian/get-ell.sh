@@ -20,6 +20,7 @@ ell/timeout.h
 ell/io.h
 ell/log.h
 ell/checksum.h
+ell/cleanup.h
 ell/random.h
 ell/uuid.h
 ell/file.h
