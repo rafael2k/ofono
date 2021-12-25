@@ -1,6 +1,7 @@
 ofono (1.33-1) unstable; urgency=medium
 
   * New upstream version
+  * Support for QMI voice calls added, including for PinePhone's EG25-G
 
  -- Rafael Diniz <rafael@rhizomatica.org>  Tue, 21 Dec 2021 12:24:01 +0300
 
